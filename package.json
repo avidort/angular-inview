@@ -1,6 +1,6 @@
 {
   "name": "angular-inview",
-  "version": "3.0.0",
+  "version": "3.0.1-mv",
   "description": "AngularJS directive to check if a DOM element is in the viewport",
   "main": "angular-inview.js",
   "scripts": {
